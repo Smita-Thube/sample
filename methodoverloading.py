@@ -10,7 +10,7 @@ class Student:
          self.name=nm
     def display(self):
         print(f'{self.name}') 
-s=Student('smita')
+s=Student('Eshaan.')
 s.display()
     
     
